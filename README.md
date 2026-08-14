@@ -1,6 +1,6 @@
 # 方泽凯
 
-**Unity 中级开发工程师** · 杭州 · 客户端 + 服务端双端开发
+**.NET 企业 Web 后端** · 杭州
 
 📧 395175422@qq.com · 📱 188-6771-3635 · [GitHub](https://github.com/Grant62) · [LeetCode](https://leetcode.cn/u/grant-b2/) · [Steam](https://steamcommunity.com/profiles/76561198984276468/)
 
@@ -15,7 +15,7 @@
 | 年龄 | 24 岁（2004 年生） |
 | 学历 | 本科 · 宁波财经学院 · 计算机科学与技术（2028 届） |
 | 期望城市 | 杭州 |
-| 期望岗位 | Unity 中级开发工程师 |
+| 期望岗位 | .NET 企业 Web 后端 |
 | 工作经验 | 1 年正式 + 6 个月实习（完美世界） |
 | 期望薪资 | 12K |
 
